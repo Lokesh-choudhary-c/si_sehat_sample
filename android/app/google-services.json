@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "290701403463",
+    "project_id": "appointment-3930b",
+    "storage_bucket": "appointment-3930b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290701403463:android:44b5f8ced692dab0605862",
+        "android_client_info": {
+          "package_name": "com.example.appointment_mgmt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290701403463-n8ifld86npo5ho68ka71t7egv2ffns5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appointment_mgmt_app",
+            "certificate_hash": "0ac77417893ffd4a526466c849c0d6e40f5ae357"
+          }
+        },
+        {
+          "client_id": "290701403463-bfr9hunmcukddsf6qqst40rah49qgpb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVhKJDwfamD2UQ8lJbNjnKDWTvtQr_Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290701403463-bfr9hunmcukddsf6qqst40rah49qgpb2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290701403463-tgunhjm5d01qf15lgsj02tuvbs80pvuh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appointmentMgmtApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

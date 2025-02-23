@@ -1,0 +1,21 @@
+class AppAssets{
+  static String icApple = "assets/icons/apple.jpg",
+ icBookAppointment = 'assets/icons/book new.png',
+ icGoogle = 'assets/icons/google.jpg',
+ icLocatePharmacy = 'assets/icons/locate new.png',
+ icLogo = 'assets/icons/Fatured icon.png',
+ icRequest = 'assets/icons/req new.png',
+ icScanner = 'assets/icons/scanner new.png',
+ imgBlueCard = 'assets/images/blue card.jpg',
+ imgDentist = 'assets/images/dentist.png',
+ imgDermato= 'assets/images/dermato_veneorologis.png',
+ imgEar = 'assets/images/ear.png',
+ imgOnboardingOne = 'assets/images/on_boarding_img1.png',
+ imgOnboardingTwo = 'assets/images/on_boarding_img2.png',
+ imgOnboardingThree = 'assets/images/on_boarding_img3.png',
+ imgPsych = 'assets/images/psychiatrist.png',
+ imgRedCard = 'assets/images/red card.jpg',
+ imgRegister = 'assets/images/register_img.png',
+ imgSplash = 'assets/images/splash_screen.png',
+ icIcon = 'assets/icons/welcome logo.jpg';
+}
